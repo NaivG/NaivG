@@ -44,7 +44,7 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaivG&layout=compact&langs_count=8" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=NaivG&show_icons=true&icon_color=007ACC&text_color=718096&hide_title=true&show=reviews,prs_merged_percentage&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NaivG&show_icons=true&icon_color=007ACC&text_color=718096&hide_title=true&show=prs_merged_percentage&rank_icon=github" />
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NaivG&utcOffset=8&theme=github" />
 
