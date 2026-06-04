@@ -53,7 +53,7 @@
 
 ### Currently working on
 
-[![Repository Card](https://svg.bookmark.style/api?url=https://github.com/ProjectCoral/Coral&mode=light&style=horizontal)](https://github.com/ProjectCoral/Coral)
+[![Repository Card](https://svg.bookmark.style/api?url=https://github.com/NaivG/tessera&mode=light&style=horizontal)](https://github.com/NaivG/tessera)
 
 [![Repository Card](https://svg.bookmark.style/api?url=https://github.com/NaivG/bilimusic&mode=light&style=horizontal)](https://github.com/NaivG/bilimusic)
 
