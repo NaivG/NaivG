@@ -44,8 +44,6 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaivG&layout=compact&langs_count=8" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=NaivG&show_icons=true&icon_color=007ACC&text_color=718096&hide_title=true&show=prs_merged_percentage&rank_icon=github" />
-
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NaivG&utcOffset=8&theme=github" />
 
 </div>
@@ -54,6 +52,8 @@
 ### Currently working on
 
 [![Repository Card](https://svg.bookmark.style/api?url=https://github.com/NaivG/tessera&mode=light&style=horizontal)](https://github.com/NaivG/tessera)
+
+[![Repository Card](https://svg.bookmark.style/api?url=https://github.com/NaivG/Luax&mode=light&style=horizontal)](https://github.com/NaivG/Luax)
 
 [![Repository Card](https://svg.bookmark.style/api?url=https://github.com/NaivG/bilimusic&mode=light&style=horizontal)](https://github.com/NaivG/bilimusic)
 
